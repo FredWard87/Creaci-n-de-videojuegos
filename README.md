@@ -35,8 +35,8 @@ Serie de ejercicios prácticos desarrollados durante la unidad temática para ap
 
 | Ejercicio | Descripción | Enlace Drive | Estado |
 |-----------|-------------|--------------|--------|
-| **Ejercicio 1** | [Realización del turoria 1.1 de la pagina unity 3d] | [https://docs.google.com/document/d/1VPM4b2fRYJUfv7eKlhIPgZ0_dVkzaPnK/edit]() | ✅ Completado |
-| **Ejercicio 2** | [Movimientos basicos de un personaje dentro de unity] | [https://drive.google.com/file/d/1fSn-Y1yGrNYvturCqnVzjcx_Thuz8kNy/view]() | ✅ Completado |
+| **Ejercicio 1** | [Realización del turoria 1.1 de la pagina unity 3d] | [https://docs.google.com/document/d/1VPM4b2fRYJUfv7eKlhIPgZ0_dVkzaPnK/edit] | ✅ Completado |
+| **Ejercicio 2** | [Movimientos basicos de un personaje dentro de unity] | [https://drive.google.com/file/d/1fSn-Y1yGrNYvturCqnVzjcx_Thuz8kNy/view] | ✅ Completado |
 | **Ejercicio 3** | [Main menu] | [🔗 Enlace]() | ✅ Completado |
 | **Ejercicio 4** | [Descripción breve] | [🔗 Enlace]() |  Pendiente |
 | **Ejercicio 5** | [Descripción breve] | [🔗 Enlace]() |  Pendiente |
