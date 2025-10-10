@@ -37,7 +37,7 @@ Serie de ejercicios prácticos desarrollados durante la unidad temática para ap
 |-----------|-------------|--------------|--------|
 | **Ejercicio 1** | [Movimientos basicos en unity] | [https://drive.google.com/file/d/1bNyaNyAgSaISZwI8737UOBk0j_p8v7Mh/view?usp=sharing] | ✅ Completado |
 | **Ejercicio 2** | [Movimientos basicos de un personaje dentro de unity] | [https://drive.google.com/file/d/1fSn-Y1yGrNYvturCqnVzjcx_Thuz8kNy/view] | ✅ Completado |
-| **Ejercicio 3** | [Main menu] | [https://docs.google.com/document/d/1jMmZuK1pg6Imr5J_zmbgq4LPjWCjENEeFFM3ifxrwbo/edit?usp=sharing] | ✅ Completado |
+| **Ejercicio 3** | [Descripción] | [] | Pendiente |
 | **Ejercicio 4** | [Descripción breve] | [🔗 Enlace]() |  Pendiente |
 | **Ejercicio 5** | [Descripción breve] | [🔗 Enlace]() |  Pendiente |
 | **Ejercicio 6** | [Descripción breve] | [🔗 Enlace]() |  Pendiente |
