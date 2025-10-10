@@ -58,3 +58,42 @@ Serie de ejercicios prácticos desarrollados durante la unidad temática para ap
 ---
 
 ## 📁 Estructura del Proyecto
+
+Proyecto-Unity3D/
+│
+├── Actividad-1A/
+│ ├── Leccion-1/
+│ ├── Leccion-2/
+│ ├── Leccion-3/
+│ └── Leccion-5/
+│
+├── Ejercicios-Practicos/
+│ ├── Ejercicio-1/
+│ ├── Ejercicio-2/
+│ ├── ...
+│ └── Ejercicio-10/
+│
+└── Documentacion/
+├── README.md
+└── Recursos/
+
+
+---
+
+## 📞 Contacto 4681297562
+
+**Correo electrónico:** [fredyesparza08@gmail.com]   
+
+---
+
+## 📄 Licencia
+
+Este proyecto es con fines educativos. Todos los derechos reservados.
+
+---
+
+<div align="center">
+
+**⌨️ Desarrollado con dedicación y pasión por el desarrollo de videojuegos** 🎮
+
+</div>
