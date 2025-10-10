@@ -19,7 +19,7 @@ El estudiante practicará los fundamentos de videojuegos en 3D con Unity mediant
 
 | Lección | Descripción | Enlace Drive | Estado |
 |---------|-------------|--------------|--------|
-| **Lección 1** | El Control del Jugador | [🔗 Enlace]() | Pendiente |
+| **Lección 1** | El Control del Jugador | [https://docs.google.com/document/d/1VPM4b2fRYJUfv7eKlhIPgZ0_dVkzaPnK/edit | Completada |
 | **Lección 2** | Jugabilidad Básica | [🔗 Enlace]() | Pendiente |
 | **Lección 3** | Sonidos y Efectos | [🔗 Enlace]() | Pendiente |
 | **Lección 5** | Interfaz de Usuario | [🔗 Enlace]() | Pendiente |
@@ -35,9 +35,9 @@ Serie de ejercicios prácticos desarrollados durante la unidad temática para ap
 
 | Ejercicio | Descripción | Enlace Drive | Estado |
 |-----------|-------------|--------------|--------|
-| **Ejercicio 1** | [Realización del turoria 1.1 de la pagina unity 3d] | [https://docs.google.com/document/d/1VPM4b2fRYJUfv7eKlhIPgZ0_dVkzaPnK/edit] | ✅ Completado |
+| **Ejercicio 1** | [Movimientos basicos en unity] | [https://drive.google.com/file/d/1bNyaNyAgSaISZwI8737UOBk0j_p8v7Mh/view?usp=sharing] | ✅ Completado |
 | **Ejercicio 2** | [Movimientos basicos de un personaje dentro de unity] | [https://drive.google.com/file/d/1fSn-Y1yGrNYvturCqnVzjcx_Thuz8kNy/view] | ✅ Completado |
-| **Ejercicio 3** | [Main menu] | [🔗 Enlace]() | ✅ Completado |
+| **Ejercicio 3** | [Main menu] | [https://docs.google.com/document/d/1jMmZuK1pg6Imr5J_zmbgq4LPjWCjENEeFFM3ifxrwbo/edit?usp=sharing] | ✅ Completado |
 | **Ejercicio 4** | [Descripción breve] | [🔗 Enlace]() |  Pendiente |
 | **Ejercicio 5** | [Descripción breve] | [🔗 Enlace]() |  Pendiente |
 | **Ejercicio 6** | [Descripción breve] | [🔗 Enlace]() |  Pendiente |
