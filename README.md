@@ -59,23 +59,8 @@ Serie de ejercicios prácticos desarrollados durante la unidad temática para ap
 
 ## 📁 Estructura del Proyecto
 
-Proyecto-Unity3D/
-│
-├── Actividad-1A/
-│ ├── Leccion-1/
-│ ├── Leccion-2/
-│ ├── Leccion-3/
-│ └── Leccion-5/
-│
-├── Ejercicios-Practicos/
-│ ├── Ejercicio-1/
-│ ├── Ejercicio-2/
-│ ├── ...
-│ └── Ejercicio-10/
-│
-└── Documentacion/
-├── README.md
-└── Recursos/
+<img width="276" height="604" alt="image" src="https://github.com/user-attachments/assets/c854b581-d3a5-42ca-9a2f-d479c9164f09" />
+
 
 
 ---
