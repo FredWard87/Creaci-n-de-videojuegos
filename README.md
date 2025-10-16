@@ -78,7 +78,8 @@ El estudiante practicará los fundamentos de videojuegos en 3D con Unity mediant
 |---------|-------------|--------------|--------|--------|-----------|
 | **Lección 1** | El Control del Jugador | [📄 Documento](https://docs.google.com/document/d/1VPM4b2fRYJUfv7eKlhIPgZ0_dVkzaPnK/edit) | ✅ Completada | [https://drive.google.com/file/d/1Vk3imtNUs8LGb95BlR-ToI5IN1uRA497/view?usp=sharing] | [<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/4d599b0b-8442-42aa-a6cf-e4b7f3c2f89e" />
 ]() |
-| **Lección 2** | Jugabilidad Básica | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
+| **Lección 2** | Jugabilidad Básica | [https://docs.google.com/document/d/1dCFFwJqNeA6zp5JlE879qdPAjLd7Nqbg_mWhFv08Dsk/edit?tab=t.0] | ✅ Completada | [https://drive.google.com/file/d/1MmG-hCtXPajEYYjwxWMxzeWA4aO_1NRb/view?usp=sharing] | [<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/7d02a621-7910-4a6a-8008-94f504352932" />
+] |
 | **Lección 3** | Sonidos y Efectos | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
 | **Lección 5** | Interfaz de Usuario | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
 
