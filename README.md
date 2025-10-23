@@ -80,7 +80,8 @@ El estudiante practicará los fundamentos de videojuegos en 3D con Unity mediant
 ]() |
 | **Lección 2** | Jugabilidad Básica | [https://docs.google.com/document/d/1dCFFwJqNeA6zp5JlE879qdPAjLd7Nqbg_mWhFv08Dsk/edit?tab=t.0] | ✅ Completada | [https://drive.google.com/file/d/1MmG-hCtXPajEYYjwxWMxzeWA4aO_1NRb/view?usp=sharing] | [<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/7d02a621-7910-4a6a-8008-94f504352932" />
 ] |
-| **Lección 3** | Sonidos y Efectos | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
+| **Lección 3** | Sonidos y Efectos | [https://docs.google.com/document/d/1C9-3iJvP8_HMBzsKTUZFKwEa1RdWEV2d7-FducGHP74/edit?usp=sharing] | ✅ Completada | [https://drive.google.com/file/d/1ga5T9YWg5xhLnAdYn-Zt18RooBgUpzSi/view?usp=sharing] | [<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/b1f04655-b674-4733-bbd5-9a74437a46ed" />
+] |
 | **Lección 5** | Interfaz de Usuario | [🔗 Enlace]() | ⏳ Pendiente | [🎥 Video]() | [🖼️ Imagen]() |
 
 
